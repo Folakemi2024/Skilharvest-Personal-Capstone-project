@@ -15,5 +15,5 @@ To clean the data from any blanks, go to home on the toolbar
 
 Click on editing,then find and select
 
-From the drop down, select go to Special, then check blanks to look for blank cells
+From the drop down, select go to Special, then click blanks to look for blank cells, then delete
 
