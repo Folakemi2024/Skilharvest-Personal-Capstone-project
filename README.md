@@ -50,4 +50,44 @@ This pie chart represents employee performance distribution based on gender. Mal
 The chart illustrates how performance varies across different age groups. The 31-40 age group demonstrates the highest level of performance, followed closely by the 51+ age group. The 20-30 age group shows the lowest level of performance.
 
 
+### Performance score of each department
+
+<img width="365" alt="Performance score for each department" src="https://github.com/user-attachments/assets/8ed93238-ea43-492c-b69a-f142be54deff">
+
+The chart illustrates performance scores for various departments. The Marketing department has the highest performance score, followed by the Legal and Operations departments. The Customer Support department shows the lowest performance score.
+
+
+### Average Monthly Salary of each job title
+
+<img width="379" alt="Average monthly salary of each job title" src="https://github.com/user-attachments/assets/840e59df-a446-4001-8e71-88e2393f28d5">
+
+The chart displays the average monthly salary for different job titles. The highest average salaries are for Managers and Engineers, followed by Consultants and Developers. The lowest average salaries are for Technicians and Analysts.
+
+### Top 5 Performing departments
+
+<img width="361" alt="Top 5 Performing Department" src="https://github.com/user-attachments/assets/02a578d7-7890-4493-b292-90116393d0e5">
+
+The chart displays the top 5 performing departments based on a performance metric. The Marketing department ranks highest, followed by Finance, Operations, IT, and Sales, which has the lowest performance among the top 5.
+
+
+### Performance score for each department
+
+<img width="365" alt="Performance score for each department" src="https://github.com/user-attachments/assets/778cf657-fa4c-4608-a023-cfb0b73b534c">
+
+The chart illustrates performance scores for various departments. The Marketing department has the highest performance score, followed by the Legal and Operations departments. The Customer Support department shows the lowest performance score.
+
+
+### Top 5 departments that handled projects
+
+<img width="365" alt="Top 5 departments that handled projects" src="https://github.com/user-attachments/assets/89114e53-c3e9-49ca-bc8c-768c765660e8">
+
+The graph displays the top 5 departments in terms of projects handled. Marketing handled the most projects, followed by Finance and Operations. IT and Sales handled the fewest projects among the top 5.
+
+
+## Key Insights from the analysis
+
+
+
+
+
 
