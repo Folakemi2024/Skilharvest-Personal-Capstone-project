@@ -119,6 +119,9 @@ From a departmental perspective, Marketing stands out as the top-performing and 
 - Barakat Hamzat
 - Elizabeth Odoh 
 
+## OVERVIEW OF THE PROJECT
+
+The dataset was sourced from Kaggle after a thorough evaluation of various options proposed by team members. Ultimately, we selected the USA Approved Loan Data as it allows us to apply all the data analysis tools we have learned and generate data-driven insights for existing loan companies, prospective entrepreneurs in the loan industry, and potential borrowers. Given the unique nature of the dataset, it was essential to fully understand its content to ensure accurate analysis and visualization. To achieve this, we familiarized ourselves with financial and accounting terminologies and dedicated considerable time to studying the dataset dictionary and thoroughly reviewing each column.
 
 
 
