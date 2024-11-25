@@ -104,6 +104,24 @@ From a departmental perspective, Marketing stands out as the top-performing and 
 - Acknowledge and reward the achievements of high-performing departments like Marketing and Finance by sharing their best practices and offering performance-based incentives to sustain motivation and drive similar success across all teams.
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# GROUP 4 PROJECT
+
+## DATA ANALYSIS OF USA APPROVED LOAN DATA
+
+## Team Members
+
+- Oyenike Oyedokun
+-  Adedayo Samuel Ojege
+- Adeniran Ayodeji John
+- Barakat Hamzat
+- Elizabeth Odoh 
+
+
+
+
 
 
 
