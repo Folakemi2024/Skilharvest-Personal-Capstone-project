@@ -17,3 +17,4 @@ Click on editing,then find and select
 
 From the drop down, select go to Special, then click blanks to look for blank cells, then delete
 
+## Visualization of the analysis
