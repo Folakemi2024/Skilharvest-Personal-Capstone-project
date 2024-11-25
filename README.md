@@ -136,6 +136,22 @@ The dataset underwent extensive cleaning and preprocessing using appropriate dat
 The cleaned dataset was then imported into Microsoft Power BI for further transformation and analysis. Each column was reviewed for completeness and consistency, and any discrepancies were addressed. Various measures and visualizations were created in Power BI to extract meaningful insights, with the visuals categorized into four sections: summary, Risk Analysis I, Risk Analysis II, and Risk Analysis III.
 
 
+## VISUALISATION OF THE ANALYSIS
+
+
+![chart 1](https://github.com/user-attachments/assets/2d304430-b99e-49d1-9f04-863c18984e6f)
+
+
+![Risk Analysis](https://github.com/user-attachments/assets/821ae2f5-efcf-4bc9-9588-c5ebc9866f52)
+
+
+![Risk Analysis 2](https://github.com/user-attachments/assets/94ca10a7-7f08-4479-b742-2173053047a1)
+
+
+![Risk Analysis 3](https://github.com/user-attachments/assets/b24990aa-4ce4-4c87-8f44-e3c764198957)
+
+
+![Summary (first visual)](https://github.com/user-attachments/assets/9db574e3-3f55-4dd1-afcf-6214429844b3)
 
 
 
