@@ -123,6 +123,18 @@ From a departmental perspective, Marketing stands out as the top-performing and 
 
 The dataset was sourced from Kaggle after a thorough evaluation of various options proposed by team members. Ultimately, we selected the USA Approved Loan Data as it allows us to apply all the data analysis tools we have learned and generate data-driven insights for existing loan companies, prospective entrepreneurs in the loan industry, and potential borrowers. Given the unique nature of the dataset, it was essential to fully understand its content to ensure accurate analysis and visualization. To achieve this, we familiarized ourselves with financial and accounting terminologies and dedicated considerable time to studying the dataset dictionary and thoroughly reviewing each column.
 
+## DATA ANALYSIS TOOLS
+
+- Microsoft Excel
+
+- Microsoft PowerBI
+
+## DATA ANALYSIS PROCESS
+
+The dataset underwent extensive cleaning and preprocessing using appropriate data cleaning functions in Microsoft Excel. Calculations, including percentages and interest rates, were performed, and additional columns were created to provide clearer insights into the dataset. Queries were conducted to identify key trends and patterns within the data. 
+
+The cleaned dataset was then imported into Microsoft Power BI for further transformation and analysis. Each column was reviewed for completeness and consistency, and any discrepancies were addressed. Various measures and visualizations were created in Power BI to extract meaningful insights, with the visuals categorized into four sections: summary, Risk Analysis I, Risk Analysis II, and Risk Analysis III.
+
 
 
 
