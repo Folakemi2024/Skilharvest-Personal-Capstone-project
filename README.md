@@ -20,5 +20,7 @@ From the drop down, select go to Special, then click blanks to look for blank ce
 
 ## Visualization of the analysis
 
-Gender Distribution in each department
+- Gender Distribution in each department
+
+  
 <img width="584" alt="Gender distribution in each department" src="https://github.com/user-attachments/assets/5306c0c3-82ed-411e-9323-abb379b3b8f1">
